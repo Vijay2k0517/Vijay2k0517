@@ -2,7 +2,8 @@
 - 👀 I’m interested in Full-stack development, Python, AI based projects.
 - 🌱 I’m currently learning MERN-Stack technology.
 - 💞️ I’m looking to collaborate on Web and App development.
-- 📫 How to reach me in gmail : vijaynaranancool@gmail.com and in instagram : vijayanarayanan.nandakumar
+- 📫 How to reach me in gmail : vijaynaranancool@gmail.com and in linkedin : www.linkedin.com/in/
+vijaya-narayanan-1b2a8b252
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I’m a tech enthusiast who loves expanding my knowledge of coding and exploring new technologies!  
 
